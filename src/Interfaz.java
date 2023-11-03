@@ -1,4 +1,4 @@
 public interface Interfaz {
-    void processPayment(PaymentInfo paymentInfo);
+    void processPayment(Info Info);
     void generateOutputFile(String filename);
 }
